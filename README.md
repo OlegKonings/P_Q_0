@@ -2,7 +2,7 @@
 P_Q
 Was built as a Visual Studio 2015 C++ project (cannot use Visual Studio 2019 due to issues with CUDA).
 Uses no third party libraries (other than STL) but does use 2 open source header files to read/ jpeg or PNG format files.
-If building using source file add the following to pre-processor;
+If building using source file add the following to pre-processor definitions;
 
 STB_IMAGE_IMPLEMENTATION
 
