@@ -1,0 +1,9 @@
+﻿  Prellis_Q_0.cpp
+Prellis_Q_0.cpp(121): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  stdafx.cpp
+  Generating code
+  All 495 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Prellis_Q_0.vcxproj -> C:\Users\OJK\Documents\Visual Studio 2015\Projects\Prellis_Q_0\x64\Release\Prellis_Q_0.exe
+  Prellis_Q_0.vcxproj -> C:\Users\OJK\Documents\Visual Studio 2015\Projects\Prellis_Q_0\x64\Release\Prellis_Q_0.pdb (Full PDB)
